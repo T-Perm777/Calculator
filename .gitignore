@@ -1,0 +1,7 @@
+bin
+obj
+*.swp
+*.exe
+*.dll
+*.pdb
+*.cache
