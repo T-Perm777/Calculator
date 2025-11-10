@@ -37,3 +37,4 @@ There's currently no flags, so just run the executable file and follow the promp
 + Variables
 + Solving for `x` or other variables
 + Mathematical constants
++ Mac & Linux binaries
